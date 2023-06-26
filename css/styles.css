@@ -29,10 +29,10 @@ body {
 .my-profession {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 35px;
   line-height: 17px;
   color: #000000;
-  margin: 0 0 18px 0;
+  margin: 0 0 28px 0;
 }
 .my-name {
   font-style: normal;
@@ -40,7 +40,7 @@ body {
   font-size: 45px;
   line-height: 55px;
   color: #000000;
-  margin: 0 0 28px 0;
+  margin: 0 0 18px 0;
 }
 
 .my-description {
@@ -87,6 +87,15 @@ body {
   line-height: 24px;
   color: #595959;
 }
+.project-item-descr-responsibilities {
+  margin: 0px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
 .project-item-link {
   font-style: normal;
   font-weight: 400;
@@ -124,7 +133,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #28231d;
   margin: 12px 0 8px 0;
 }
 
@@ -171,7 +180,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #28231d;
 }
 
 /* sidebar  */
